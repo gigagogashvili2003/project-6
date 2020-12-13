@@ -1,0 +1,93 @@
+
+
+
+/* basec clases */
+
+.float-right {
+    float: right;
+}
+.float-left {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+
+/* header */
+
+.header-logo {
+    
+    margin: 4px 0px 0px 140px;
+       
+}
+
+.navigation {
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 48px 0px 0px 119px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    
+    
+}
+
+.nav-li {
+    margin-left: 30px;
+    
+}
+
+.shop {
+    font-weight: bold;
+}
+
+/* header end here */
+
+
+
+/* section first */
+.text-wraper {
+    position: relative;
+    
+}
+
+.on-biggest-photo-h3 {
+    position: absolute;
+    font-size: 22px;
+    color: white;
+    top: 50%;
+    left: 50%; 
+    -ms-transform: translate(-50%, -50%); 
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    
+    
+    
+}
+
+.on-biggest-photo-h3-2 {
+    position: absolute;
+    font-size: 48px;
+    color: white;
+    top: 50%;
+    left: 50%; 
+    -ms-transform: translate(-50%, -50%); 
+    transform: translate(-50%, -50%);
+    margin-top: 40px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    
+}
+
+/* section first ends here */
+
+
+/* second section */
+
+
+.popular-post {
+    text-transform: capitalize;
+    font-size: 22px;
+}
+
+
+
+
