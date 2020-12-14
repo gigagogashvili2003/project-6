@@ -52,6 +52,7 @@
 }
 .biggest-photo {
     width: 100%;
+    height: 382px;
 }
 
 .on-biggest-photo-h3 {
@@ -86,6 +87,74 @@
 
 
 /* second section */
+.section2-title {
+    font-size: 22px;
+    text-transform: capitalize;
+    color: #FF7A00;
+    margin: 84px 0px 0px 172px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: bold;
+    
+
+}
+
+
+.blocks {
+    width: 1324px;
+    margin: 0 auto;
+    margin-top: 81px;   
+}
+.left-block,
+.right-block {
+    width: 636px;
+}
+
+.section2-title2 {
+    font-size: 36px;
+    width: 563px;
+    margin-top: 20px;
+}
+
+.section2-paragraph {
+    font-size: 16px;
+    color: #7B7B7B;
+    margin-top: 22px;
+    margin-bottom: 13px;
+}
+
+.read-more { 
+    color: #FF7A00;
+    font-size: 14px;
+    text-transform: uppercase;
+    
+}
+
+.read-more::after {
+    content: ' ' ;
+    width: 47px;
+    height: 4px;
+    color: #FF7A00;
+}
+
+.read-more {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #FF7A00;
+    display: inline-block;
+    
+}
+
+.line {
+    width: 47px;
+    height: 4px;
+    color: #FF7A00;
+    display: inline-block;
+   
+}
+
+/* second section end here */
+
+
 
 
 
