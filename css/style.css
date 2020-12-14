@@ -46,7 +46,12 @@
 /* section first */
 .text-wraper {
     position: relative;
-    
+    margin-top: 24px;
+    height: 382px;
+      
+}
+.biggest-photo {
+    width: 100%;
 }
 
 .on-biggest-photo-h3 {
@@ -83,10 +88,7 @@
 /* second section */
 
 
-.popular-post {
-    text-transform: capitalize;
-    font-size: 22px;
-}
+
 
 
 
