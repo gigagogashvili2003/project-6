@@ -103,6 +103,7 @@
     width: 1324px;
     margin: 0 auto;
     margin-top: 81px;   
+    
 }
 .left-block,
 .right-block {
@@ -143,14 +144,27 @@
     display: inline-block;
     
 }
-
-.line {
-    width: 47px;
-    height: 4px;
-    color: #FF7A00;
-    display: inline-block;
-   
+.second-line {
+    margin-top: 57px;
 }
+
+
+
+.load-more {
+    width: 190px;
+    height: 70px;
+    background: #FF7A00;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 99px;
+    text-align: center;
+    padding-top: 23px;
+}
+
+
+
 
 /* second section end here */
 
