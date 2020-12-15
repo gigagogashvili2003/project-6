@@ -147,6 +147,14 @@
 .second-line {
     margin-top: 57px;
 }
+.read-more::after {
+    content: '';
+    width: 47px;
+    height: 4px;
+    background: #FF7A00;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 
 
